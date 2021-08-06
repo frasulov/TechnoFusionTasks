@@ -9,10 +9,11 @@
 
 ### run following commands
 
-(following commands will create tables in db)
+(following 2 commands will create tables in db)
 * python manage.py makemigrations
 * python manage.py migrate
 
+* python manage.py runserver (will run the server. default port is 8000)
 
 Another terminal
 
